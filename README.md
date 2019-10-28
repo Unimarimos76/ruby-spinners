@@ -1,4 +1,4 @@
-### Ruby spinnerを使ってみるrepositroy
+## ttyツールを使ってみる会
 
-spinnerの準備されているものを叩いて使っている。
-
+今のところ触れたのはtty-spinnerなので次はべつのttyを触ってみる
+とりあえずMarkdownのやつとか触ってみる
